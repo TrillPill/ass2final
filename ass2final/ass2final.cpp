@@ -102,7 +102,7 @@ int main()
 
 	myTicketArray[0].closeTicket();
 	myTicketArray[0].showTicket();
-
+	//comment
 	return 0;
 }
 
